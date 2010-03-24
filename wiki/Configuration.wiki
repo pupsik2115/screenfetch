@@ -4,6 +4,10 @@
 
 Here's a reference for the configuration options at the top of the file.
 
+= Screenshots =
+
+ArcherSeven's hosting screenshots for easy viewing.
+http://archerseven.silverirc.com/screenfetch/pics/
 
 = Reference =
 
